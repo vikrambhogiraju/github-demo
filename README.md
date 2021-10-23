@@ -1,2 +1,1 @@
-# github-demo
-A simple demo repository to show basic Git workflow
+I am editing the README file. Adding some more details about the project description.
